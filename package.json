@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkbasic/ImagePicker.git"
+    "url": "git+https://github.com/RapidWorks/ImagePicker"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -24,7 +24,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Dhaval Soni",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/darkbasic/ImagePicker/issues"
